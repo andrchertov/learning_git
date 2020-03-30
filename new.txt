@@ -2,3 +2,6 @@ line 1
 line 2
 l 3
 "line from cmd" 
+remote address:
+https://github.com/andrchertov/learning_git.git
+
